@@ -1,0 +1,6 @@
+customer_id,aircraft_id,class_id,total_price
+27,767-301ER,Economy,5634
+41,A321,"First Class",4270
+20,CRJ900,"First Class",3440
+22,ERJ142,"Economy Plus",2025
+22,NULL,"Economy Plus",15369

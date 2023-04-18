@@ -1,0 +1,4 @@
+customer_id,aircraft_id,route_id,depart,arrival,seat_num,class_id,travel_date,flight_num
+2,767-301ER,4,JFK,LAX,01E,Economy,02-09-2018,1114
+4,767-301ER,4,JFK,LAX,03FC,"First Class",30-04-2020,1114
+11,767-301ER,4,JFK,LAX,05B,Bussiness,09-11-2020,1114

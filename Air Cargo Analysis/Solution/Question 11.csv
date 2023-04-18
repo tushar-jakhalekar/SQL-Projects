@@ -1,0 +1,51 @@
+customer_id,class_id,brand,max_price
+25,Bussiness,Emirates,510
+49,Bussiness,Emirates,510
+21,Bussiness,"Bristish Airways",510
+33,Bussiness,"Bristish Airways",510
+29,Bussiness,"Jet Airways",510
+7,Bussiness,Emirates,510
+24,Bussiness,"Qatar Airways",510
+15,Bussiness,"Qatar Airways",510
+2,Bussiness,"Qatar Airways",510
+11,Bussiness,Emirates,510
+29,Bussiness,"Qatar Airways",510
+5,Bussiness,Emirates,510
+11,Bussiness,Emirates,510
+27,Economy,Emirates,190
+2,Economy,Emirates,190
+28,Economy,"Jet Airways",190
+5,Economy,"Jet Airways",190
+14,Economy,"Jet Airways",190
+31,Economy,Emirates,190
+10,Economy,"Qatar Airways",190
+5,Economy,"Jet Airways",190
+46,Economy,"Qatar Airways",190
+18,Economy,Emirates,190
+25,Economy,Emirates,190
+14,Economy,Emirates,190
+19,Economy,Emirates,190
+8,Economy,"Qatar Airways",190
+22,"Economy Plus","Jet Airways",295
+19,"Economy Plus","Bristish Airways",295
+32,"Economy Plus","Jet Airways",295
+17,"Economy Plus","Qatar Airways",295
+1,"Economy Plus","Jet Airways",295
+50,"Economy Plus","Qatar Airways",295
+11,"Economy Plus","Jet Airways",295
+8,"Economy Plus","Qatar Airways",295
+47,"Economy Plus","Bristish Airways",295
+19,"Economy Plus","Bristish Airways",295
+4,"First Class",Emirates,395
+9,"First Class",Emirates,395
+13,"First Class","Qatar Airways",395
+9,"First Class","British Airways",395
+1,"First Class","Bristish Airways",395
+20,"First Class","Bristish Airways",395
+18,"First Class",Emirates,395
+20,"First Class","Bristish Airways",395
+4,"First Class",Emirates,395
+16,"First Class","Bristish Airways",395
+44,"First Class",Emirates,395
+41,"First Class","Qatar Airways",395
+46,"First Class","Qatar Airways",395

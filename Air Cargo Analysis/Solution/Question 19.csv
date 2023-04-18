@@ -1,0 +1,51 @@
+p_date,customer_id,class_id,SERVICE
+26-12-2018,27,Economy,NO
+02-02-2020,22,"Economy Plus",YES
+03-03-2020,21,Bussiness,NO
+04-04-2020,4,"First Class",NO
+05-05-2020,5,Economy,NO
+07-07-2020,7,Bussiness,NO
+08-08-2020,8,"Economy Plus",YES
+09-09-2020,9,"First Class",NO
+10-10-2020,10,Economy,NO
+11-11-2020,11,Bussiness,NO
+12-12-2020,19,"Economy Plus",YES
+01-01-2019,13,"First Class",NO
+02-02-2019,14,Economy,NO
+03-03-2019,25,Bussiness,NO
+04-04-2019,16,"First Class",NO
+03-05-2019,17,"Economy Plus",YES
+06-06-2019,18,Economy,NO
+07-07-2019,24,Bussiness,NO
+09-08-2019,20,"First Class",NO
+21-09-2019,25,Economy,NO
+22-10-2019,29,Bussiness,NO
+23-11-2019,1,"Economy Plus",YES
+24-12-2019,14,Economy,NO
+25-01-2019,2,Bussiness,NO
+01-01-2018,9,"First Class",NO
+01-02-2018,19,Economy,NO
+01-03-2018,18,"First Class",NO
+01-04-2018,29,Bussiness,NO
+01-05-2018,8,Economy,NO
+01-06-2018,20,"First Class",NO
+01-07-2018,5,Bussiness,NO
+01-08-2018,11,"Economy Plus",YES
+01-09-2018,2,Economy,NO
+01-10-2018,1,"First Class",NO
+01-11-2018,15,Bussiness,NO
+01-12-2018,28,Economy,NO
+19-12-2018,31,Economy,NO
+04-02-2020,32,"Economy Plus",YES
+12-03-2020,33,Bussiness,NO
+29-04-2020,4,"First Class",NO
+30-05-2020,5,Economy,NO
+17-07-2020,49,Bussiness,NO
+12-08-2020,50,"Economy Plus",YES
+05-09-2020,44,"First Class",NO
+07-10-2020,46,Economy,NO
+08-11-2020,11,Bussiness,NO
+09-12-2020,47,"Economy Plus",YES
+11-01-2019,41,"First Class",NO
+13-12-2020,19,"Economy Plus",YES
+15-01-2019,46,"First Class",NO
